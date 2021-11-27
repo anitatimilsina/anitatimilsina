@@ -1,6 +1,6 @@
 <h2>Hello </h2>
 
-Hi! I am Anita Timilsina, born and brought up in Nepal. Being an engineer I always believe in creating something exciting from the tarsh with the help of my knowlwdge, 
+Hi! I am Anita Timilsina, born and brought up in Nepal. Being an engineer, I always believe in creating something exciting from the tarsh with the help of my knowlwdge, 
 skills and imagination. I always prefer to be called a lifetime learner. 
 
 
